@@ -1,1 +1,6 @@
-data
+# Ignore everything in the data folder
+data/*
+
+# Unignore png datasets
+!data/Drive/train-png
+!data/Drive/test-png
