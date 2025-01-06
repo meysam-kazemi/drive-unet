@@ -6,8 +6,8 @@ Retinal blood vessel segmentation is an essential task in medical image analysis
 
 Dataset
 The dataset used for this project is the DRIVE (Digital Retinal Images for Vessel Extraction) dataset. This dataset consists of a collection of retinal images along with corresponding ground truth segmentation masks, which provide a benchmark for evaluating segmentation performance. The DRIVE dataset is widely used in the research community for testing and comparing segmentation algorithms.
-![img](https://github.com/meysam-kazemi/drive-unet/blob/main/figs/drive%20image.png)
-![mask](https://github.com/meysam-kazemi/drive-unet/blob/main/figs/drive-mask.png)
+![img](https://github.com/meysam-kazemi/drive-unet/blob/main/figs/drive%20image.png){width=400}
+![mask](https://github.com/meysam-kazemi/drive-unet/blob/main/figs/drive-mask.png){width=400}
 
 
 Models
